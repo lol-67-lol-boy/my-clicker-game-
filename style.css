@@ -1,0 +1,20 @@
+body {
+background-color: #2c3e50;
+  background-image: url('https://dashnet.org');
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  margin-top: 50px;
+  }
+
+#click-btn {
+  transition: transform 0.05s ease;
+{
+
+#click-btn:hover {
+transform: scale(1.05);
+}
+
+#click-btn:active {
+transform: scale(0.95);
+  }
